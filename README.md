@@ -1,3 +1,6 @@
+## Live Demo
+
+https://ecommerce-data-engineering-platform-alpha.vercel.app
 # E-Commerce Data Engineering Pipeline
 
 End-to-end data engineering demo with Python, PostgreSQL, Airflow, Kafka, PySpark, FastAPI, React and Docker.
