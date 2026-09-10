@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,status,total_amount
+1001,1,2026-08-01 10:20:00,delivered,4298
+1002,2,2026-08-02 12:10:00,delivered,1899
+1003,3,2026-08-02 14:30:00,shipped,16999
+1004,4,2026-08-03 09:15:00,processing,2499
+1005,5,2026-08-04 17:45:00,delivered,799
