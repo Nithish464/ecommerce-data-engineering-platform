@@ -29,7 +29,7 @@ import {
 } from "recharts";
 import "./style.css";
 
-const API = "http://localhost:8000";
+const API = "https://ecommerce-data-engineering-platform.onrender.com";
 
 async function api(path, options = {}) {
   const response = await fetch(`${API}${path}`, options);
